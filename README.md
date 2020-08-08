@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <img src="YOUR_LOGO_URL" alt="YOUR_PROJECT_NAME" width="120">
+  <img src="https://github.com/marialauras/creative-flashcards/blob/master/assets/icon-app.png" alt="YOUR_PROJECT_NAME" width="120">
 <br>
 <br>
 Creative Flashcards
@@ -11,17 +11,17 @@ Creative Flashcards
 
 
 [//]: # (Add your gifs/images here:)
-<div>
-  <img src="IMAGE_1_URL" alt="demo" height="425">
-  <img src="IMAGE_2_URL" alt="demo" height="425">
+<div align="center">
+  <img src="https://github.com/marialauras/creative-flashcards/blob/master/assets/my-app.gif" alt="demo" height="525">
 </div>
 
-<hr />
 
 ## Features
 [//]: # (Add the features of your project here:)
 This app features all the latest tools and practices in mobile development!
 
 - ⏩ **Flutter** — A open-source UI software development kit created by Google. 
+
+
 
 
