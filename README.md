@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <img src="https://github.com/marialauras/creative-flashcards/blob/master/assets/icon-app.png" alt="YOUR_PROJECT_NAME" width="120">
+  <img src="https://github.com/marialauras/creative-flashcards/blob/master/assets/icon-app.png" alt="YOUR_PROJECT_NAME" width="100">
 <br>
 <br>
 Creative Flashcards
