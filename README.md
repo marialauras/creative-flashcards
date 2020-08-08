@@ -12,16 +12,16 @@ Creative Flashcards
 
 [//]: # (Add your gifs/images here:)
 <div align="center">
-  <img src="https://github.com/marialauras/creative-flashcards/blob/master/assets/my-app.gif" alt="demo" height="525"
+  <img src="https://github.com/marialauras/creative-flashcards/blob/master/assets/my-app.gif" alt="demo" height="525">
 </div>
 
-<div align="left>
+
 ## Features
 [//]: # (Add the features of your project here:)
 This app features all the latest tools and practices in mobile development!
 
 - ⏩ **Flutter** — A open-source UI software development kit created by Google. 
 
-</div>
+
 
 
