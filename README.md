@@ -11,11 +11,10 @@ Creative Flashcards
 
 
 [//]: # (Add your gifs/images here:)
-<div>
-  <img align="center" src="https://github.com/marialauras/creative-flashcards/blob/master/assets/my-app.gif" alt="demo" height="625"
+<div align="center">
+  <img src="https://github.com/marialauras/creative-flashcards/blob/master/assets/my-app.gif" alt="demo" height="525"
 </div>
 
-<hr />
 
 ## Features
 [//]: # (Add the features of your project here:)
