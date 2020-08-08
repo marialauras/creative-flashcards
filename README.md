@@ -11,8 +11,8 @@ Creative Flashcards
 
 
 [//]: # (Add your gifs/images here:)
-<div>
-  <img src="https://github.com/marialauras/creative-flashcards/blob/master/assets/my-app.gif" alt="demo" height="425"
+<div align="center">
+  <img src="https://github.com/marialauras/creative-flashcards/blob/master/assets/my-app.gif" alt="demo" height="725"
 </div>
 
 <hr />
